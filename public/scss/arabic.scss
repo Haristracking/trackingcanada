@@ -1,0 +1,164 @@
+@font-face {
+  font-family: "poppins-bold";
+  src: url(../fonts/FrutigerLTArabic65Bold.ttf);
+}
+
+@font-face {
+  font-family: "poppins-medium";
+  src: url(../fonts/FrutigerLTArabic55Roman.ttf);
+}
+
+@font-face {
+  font-family: "poppins-semibold";
+  src: url(../fonts/FrutigerLTArabic65Bold.ttf);
+}
+
+@font-face {
+  font-family: "poppins-regular";
+  src: url(../fonts/FrutigerLTArabic55Roman.ttf);
+}
+
+.text-start {
+  text-align: right !important;
+}
+
+.float-end {
+  float: left !important;
+}
+
+.navbar-nav {
+  margin-right: auto !important;
+  margin-left: unset !important;
+}
+
+.primary,
+.secondary,
+.third {
+  img {
+    transform: rotate(180deg);
+  }
+}
+
+#switchlang {
+  background-position-x: 10%;
+}
+
+.footer {
+  .footer-social {
+    .mx-2 {
+      margin-left: 0.75rem !important;
+      margin-right: 0 !important;
+    }
+  }
+
+  .footer-link-list {
+    padding-right: 150px;
+    padding-left: 0px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1025px) {
+  .footer .footer-top .footer-link-list {
+    padding-right: 7% !important;
+    padding-left: 0px;
+  }
+}
+
+@media (max-width: 768px) {
+  .navbar .navbar-collapse .dropdown-toggle::after {
+    margin-left: 0 !important;
+    content: url(../img/dropdown-arrow-ic.svg) !important;
+    border: none;
+    vertical-align: 1px !important;
+    display: inline-block !important;
+    margin-right: 0.655em !important;
+  }
+}
+
+.contact-info-section .contact-form {
+  left: 23px !important;
+  right: 23px !important;
+}
+
+input,
+textarea {
+  unicode-bidi: bidi-override !important;
+  direction: RTL !important;
+}
+
+.dark-gradiant {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  top: 0;
+  background: transparent linear-gradient(270deg, #000000 5%, #00000000 100%) 0%
+    0% no-repeat padding-box;
+  z-index: 1;
+}
+
+.light-gradiant {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  top: 0;
+  background: transparent linear-gradient(90deg, #ffffff 5%, #ffffff00 100%) 0%
+    0% no-repeat padding-box;
+  z-index: 1;
+}
+
+.reverse-image-in-arabic {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+.right-image-solution-section
+  .right-image-solution-main
+  .right-image-solution-row
+  .right-image-solution-image
+  .image {
+  float: left;
+}
+
+.left-image-solution-section
+  .left-image-solution-main
+  .left-image-solution-row
+  .left-image-solution-image
+  .image {
+  float: right;
+}
+
+.navbar .dropdown-menu .solution-item:hover {
+  margin-right: 5px !important;
+}
+
+.navbar .dropdown-menu .solution-item img {
+  transform: rotate(180deg);
+}
+
+.navbar-shop-btn {
+  margin-right: 70px;
+}
+.contact-info-main,
+#contact_us_heading,
+.contact-us-section{
+  direction:ltr;
+}
+
+
+
+.video-arb {
+  display: block;
+}
+
+.video-en {
+  display: none;
+}
+
+.en-saudi-made-logo {
+  display: none;
+}
+.arb-saudi-made-logo {
+  display: block;
+}

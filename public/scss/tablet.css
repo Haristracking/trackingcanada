@@ -1,0 +1,1138 @@
+@media (min-width: 768px) and (max-width: 1025px) {
+    .page-margin-navbar {
+        margin-top: 100px;
+    }
+    .container {
+        margin: 0 !important;
+        padding-left: 118px !important;
+        padding-right: 7px !important;
+        max-width: unset !important;
+    }
+    .default-margin {
+        margin-left: 118px !important;
+        margin-right: 118px !important;
+    }
+    .default-padding {
+        padding-left: 30px !important;
+        padding-right: 0px !important;
+    }
+    .primary {
+        width: 118px;
+        height: 36px;
+        font-size: 12px;
+        padding: 9px 32px;
+    }
+    .secondary {
+        width: 114px;
+        height: 28px;
+        font-size: 9px;
+        padding: 9px 11px;
+    }
+    .secondary img {
+        max-width: 9px;
+        max-height: 9px;
+    }
+    .third {
+        width: 114px;
+        height: 28px;
+        font-size: 9px;
+        padding: 9px 11px;
+    }
+    .third img {
+        max-width: 9px;
+        max-height: 9px;
+    }
+    .navbar {
+        height: 100px !important;
+        min-height: 100px !important;
+    }
+    .navbar .nav-item {
+        font-size: 12px;
+        min-height: 29px;
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+        white-space: nowrap;
+    }
+    .navbar .navbar-brand img {
+        max-width: 108px !important;
+    }
+    .navbar .navbar-shop-btn {
+        -webkit-margin-start: 1px !important;
+        margin-inline-start: 10px;
+        width: 77px;
+        height: 29px;
+        font-size: 12px !important;
+        margin-top: 10px;
+    }
+    .navbar .navbar-shop-btn img {
+        margin-top: 10px;
+        width: 15px;
+    }
+    .navbar .dropdown-menu {
+        width: 640px;
+        background-color: white;
+        right: -335% !important;
+        left: unset;
+        border-radius: 20px;
+        top: 35px;
+    }
+    .navbar .dropdown-menu .solution-item .solution-name {
+        color: #6e6e6e;
+        font-size: 12px;
+    }
+    .index-headline-main .video-player-text-main {
+        top: 40% !important;
+    }
+    .index-headline-main .video-player-text-main .video-player-title {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .index-headline-main .video-player-text-main .video-player-desc {
+        font-size: 14px;
+        max-width: 540px;
+        margin: auto;
+        margin-bottom: 35px;
+    }
+    .section {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .section .section-title {
+        font-size: 24px;
+        margin-bottom: 43px;
+    }
+    .section .section-sub-title {
+        margin-top: 20px;
+        margin-bottom: 30px;
+        font-size: 16px;
+    }
+    .section .section-sub-desc {
+        margin-bottom: 20px;
+        font-size: 14px;
+    }
+    .customized-solutions-main .solution-item {
+        justify-content: space-around;
+        margin: auto;
+    }
+    .customized-solutions-main .solution-item .solution-img {
+        max-width: 34px;
+        max-height: 34px;
+    }
+    .customized-solutions-main .solution-item .solution-name {
+        font-size: 13px;
+        margin-bottom: 10px;
+        margin-top: 18px;
+        max-width: 135px;
+    }
+    .customized-solutions-main .mt-100 {
+        margin-top: 60px;
+    }
+    .about-main-index {
+        padding-bottom: 200px;
+    }
+    .about-main-index .about-main-customer-review-section {
+        bottom: -130px;
+        z-index: 10;
+    }
+    .about-main-index .about-main-customer-review-section .row {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+    .about-main-index .about-main-customer-review-section .count-item img {
+        max-height: 45px;
+    }
+    .about-main-index .about-main-customer-review-section .count-item .count {
+        margin-top: 17px;
+        font-size: 36px;
+    }
+    .about-main-index
+        .about-main-customer-review-section
+        .count-item
+        .count-text {
+        font-size: 12px;
+    }
+    .our-customers-main-index {
+        padding-top: 225px;
+        padding-bottom: 50px;
+    }
+    .our-customers-main-index .section-title {
+        margin-bottom: 20px;
+    }
+    .our-customers-main-index .customer-img-list .customer-img {
+        max-width: 140px;
+        max-height: 140px;
+        margin: 0px 5px;
+    }
+    .our-partners-main-index {
+        padding-top: 50px;
+    }
+    .our-partners-main-index .section-title {
+        margin-bottom: 20px;
+    }
+    .our-partners-main-index .customer-img-list .customer-img {
+        max-width: 140px;
+        max-height: 140px;
+        margin: 0px 5px;
+    }
+    .footer .footer-top .col-4 {
+        /* padding: 0 !important; */
+    }
+    .footer .footer-top .footer-logo {
+        max-width: 118px !important;
+        margin-bottom: 20px !important;
+    }
+    .footer .footer-top .footer-desc {
+        font-size: 12px;
+    }
+    .footer .footer-top .footer-social a {
+        margin: 0 5px;
+    }
+    .footer .footer-top .footer-social a img {
+        max-width: 20px;
+    }
+    .footer .footer-top .footer-title {
+        font-size: 16px;
+        margin-bottom: 36px;
+    }
+    .footer .footer-top .footer-link-list {
+        padding-left: 7% !important;
+    }
+    .footer .footer-top .footer-link {
+        font-size: 12px;
+    }
+    .footer .footer-top .footer-contact h4 {
+        margin-left: 55px;
+    }
+    .footer .footer-top .footer-contact img {
+        max-width: 17px;
+    }
+    .footer .footer-top .footer-contact span {
+        font-size: 14px;
+    }
+    .footer .copyright {
+        height: 100px;
+    }
+    .footer .copyright .footer-copyright-text {
+        font-size: 12px;
+    }
+    .footer .copyright #switchlang {
+        padding-left: 30px;
+        padding-right: 30px;
+        font-size: 14px;
+        width: 133px;
+        height: 40px;
+        background-position-y: 8px;
+    }
+    .who-are-we-section .who-are-we-main .who-are-we-row .who-are-we-content {
+        width: 65% !important;
+    }
+    .who-are-we-section
+        .who-are-we-main
+        .who-are-we-row
+        .who-are-we-content
+        .title {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+    .who-are-we-section
+        .who-are-we-main
+        .who-are-we-row
+        .who-are-we-content
+        .sub-title {
+        font-size: 16px;
+        margin-bottom: 16px;
+    }
+    .who-are-we-section
+        .who-are-we-main
+        .who-are-we-row
+        .who-are-we-content
+        .desc {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .who-are-we-section .who-are-we-main .who-are-we-row .who-are-we-image {
+        width: 35% !important;
+    }
+    .who-are-we-section .who-are-we-main .who-are-we-row .who-are-we-image img {
+        width: 138px;
+        height: 152px;
+    }
+    .our-vision-section .our-vision-main .our-vision-row .our-vision-content {
+        max-width: 439px;
+    }
+    .our-vision-section
+        .our-vision-main
+        .our-vision-row
+        .our-vision-content
+        .title {
+        font-size: 24px;
+        margin-bottom: 16px;
+    }
+    .our-vision-section
+        .our-vision-main
+        .our-vision-row
+        .our-vision-content
+        .desc {
+        font-size: 12px;
+        margin-bottom: 15px;
+    }
+    .our-vision-section .our-vision-main .our-vision-row .our-vision-image img {
+        height: -webkit-fill-available;
+        max-height: 280px !important;
+    }
+    .meet-ceo-section
+        .meet-ceo-main
+        .meet-ceo-row
+        .meet-ceo-content
+        .title-header {
+        font-size: 12px;
+        letter-spacing: 1.32px;
+    }
+    .meet-ceo-section .meet-ceo-main .meet-ceo-row .meet-ceo-content .title {
+        font-size: 20px;
+        margin-bottom: 16px;
+    }
+    .meet-ceo-section .meet-ceo-main .meet-ceo-row .meet-ceo-content .desc {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .meet-ceo-section .meet-ceo-main .meet-ceo-row .meet-ceo-image img {
+        width: 264px;
+        height: 290px;
+    }
+    .pta-main-index .container .title {
+        margin-top: 20px;
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+    .pta-main-index .container .desc {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    .pta-main-index .container .image {
+        width: 496px;
+        height: 60px;
+        margin: auto;
+    }
+    .pta-main-index .container .accredite-logo {
+        height: 41px;
+        width: 145px;
+    }
+    .our-team-section {
+        padding-top: 157px;
+        padding-bottom: 157px;
+    }
+    .our-team-section .our-team-main .our-team-row .col-7 {
+        width: 100%;
+    }
+    .our-team-section .our-team-main .our-team-row .our-team-content {
+        max-width: 100%;
+    }
+    .our-team-section .our-team-main .our-team-row .our-team-content .title {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+    .our-team-section
+        .our-team-main
+        .our-team-row
+        .our-team-content
+        .sub-title {
+        font-size: 18px;
+    }
+    .core-team-section {
+        padding-top: 100px;
+        padding-bottom: 40px;
+    }
+    .core-team-section .core-team-main .title {
+        font-size: 24px;
+        margin-bottom: 60px;
+    }
+    .core-team-section .core-team-main .core-team-member-list .col-3 {
+        padding: 0 !important;
+    }
+    .core-team-section
+        .core-team-main
+        .core-team-member-list
+        .core-team-member {
+        margin-bottom: 60px;
+    }
+    .core-team-section
+        .core-team-main
+        .core-team-member-list
+        .core-team-member
+        .image {
+        width: 180px;
+        height: 180px;
+        margin: auto;
+    }
+    .core-team-section
+        .core-team-main
+        .core-team-member-list
+        .core-team-member
+        .name {
+        font-size: 16px;
+        margin-bottom: 4px;
+        margin-top: 16px;
+    }
+    .core-team-section
+        .core-team-main
+        .core-team-member-list
+        .core-team-member
+        .job {
+        font-size: 12px;
+    }
+    .digital-team-section {
+        padding-top: 100px;
+        padding-top: 40px;
+    }
+    .digital-team-section .digital-team-main .title {
+        font-size: 24px;
+        margin-bottom: 60px;
+    }
+    .digital-team-section .digital-team-main .digital-team-member-list .col-3 {
+        padding: 0 !important;
+    }
+    .digital-team-section
+        .digital-team-main
+        .digital-team-member-list
+        .digital-team-member {
+        margin-bottom: 60px;
+    }
+    .digital-team-section
+        .digital-team-main
+        .digital-team-member-list
+        .digital-team-member
+        .image {
+        width: 180px;
+        height: 180px;
+    }
+    .digital-team-section
+        .digital-team-main
+        .digital-team-member-list
+        .digital-team-member
+        .name {
+        font-size: 16px;
+        margin-bottom: 4px;
+        margin-top: 16px;
+    }
+    .digital-team-section
+        .digital-team-main
+        .digital-team-member-list
+        .digital-team-member
+        .job {
+        font-size: 12px;
+    }
+    .contact-us-section {
+        padding-top: 60px;
+        padding-bottom: 262px;
+    }
+    .contact-us-section .contact-us-main .contact-us-row .contact-us-content {
+        display: flex;
+        align-items: center;
+        margin-left: 110px;
+    }
+    .contact-us-section
+        .contact-us-main
+        .contact-us-row
+        .contact-us-content
+        .sub-header {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .contact-us-section
+        .contact-us-main
+        .contact-us-row
+        .contact-us-content
+        .title {
+        text-align: center;
+        font-size: 32px;
+        max-width: 300px;
+    }
+    .contact-info-section {
+        position: relative;
+        padding-top: 100px;
+        padding-bottom: 100px;
+        min-height: 900px;
+    }
+    .contact-info-section .contact-info-main {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .contact-info-section
+        .contact-info-main
+        .contact-info-row
+        .contact-info-content {
+        flex-direction: row;
+        display: flex;
+        position: absolute;
+        bottom: 100px;
+        gap: 15px;
+    }
+    .contact-info-section
+        .contact-info-main
+        .contact-info-row
+        .contact-info-content
+        .contact-info-header {
+        display: flex;
+        flex-direction: column;
+    }
+    .contact-info-section
+        .contact-info-main
+        .contact-info-row
+        .contact-info-content
+        .title {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .contact-info-section
+        .contact-info-main
+        .contact-info-row
+        .contact-info-content
+        .desc {
+        font-size: 16px;
+        margin-bottom: 0px;
+        max-width: 290px;
+    }
+    .contact-info-section
+        .contact-info-main
+        .contact-info-row
+        .contact-info-content
+        .contact-info-address {
+        display: flex;
+        flex-direction: row;
+        gap: 15px;
+    }
+    .contact-info-section
+        .contact-info-main
+        .contact-info-row
+        .contact-info-content
+        .contact-info-address
+        .contact-info-address-p1
+        .item,
+    .contact-info-section
+        .contact-info-main
+        .contact-info-row
+        .contact-info-content
+        .contact-info-address
+        .contact-info-address-p2
+        .item {
+        margin-bottom: 20px !important;
+    }
+    .contact-info-section
+        .contact-info-main
+        .contact-info-row
+        .contact-info-content
+        .contact-info-address
+        .contact-info-address-p1
+        .item
+        img,
+    .contact-info-section
+        .contact-info-main
+        .contact-info-row
+        .contact-info-content
+        .contact-info-address
+        .contact-info-address-p2
+        .item
+        img {
+        -webkit-margin-end: 15px;
+        margin-inline-end: 15px;
+        width: 17px;
+    }
+    .contact-info-section
+        .contact-info-main
+        .contact-info-row
+        .contact-info-content
+        .contact-info-address
+        .contact-info-address-p1
+        .item
+        span,
+    .contact-info-section
+        .contact-info-main
+        .contact-info-row
+        .contact-info-content
+        .contact-info-address
+        .contact-info-address-p2
+        .item
+        span {
+        max-width: 235px;
+        font-size: 14px;
+    }
+    .contact-info-section
+        .contact-info-main
+        .contact-info-row
+        .contact-info-content
+        .contact-info-address
+        .contact-info-address-p1
+        .item
+        a,
+    .contact-info-section
+        .contact-info-main
+        .contact-info-row
+        .contact-info-content
+        .contact-info-address
+        .contact-info-address-p2
+        .item
+        a {
+        font-size: 14px;
+        max-width: 234px;
+    }
+    .contact-info-section .contact-form {
+        max-width: unset;
+        padding: 64px;
+        top: -215px;
+        right: 110px;
+        left: 110px;
+    }
+    .contact-info-section .contact-form .input-row label {
+        font-size: 16px;
+        margin-bottom: 10px;
+        padding: 0;
+    }
+    .contact-info-section .contact-form .input-row input {
+        border-radius: 10px;
+        padding: 11px 16px;
+        height: 40px;
+        margin-bottom: 20px;
+        width: 100%;
+    }
+    .contact-info-section .contact-form .input-row :-ms-input-placeholder {
+        font-size: 14px;
+    }
+    .contact-info-section .contact-form .input-row ::-moz-placeholder {
+        font-size: 14px;
+    }
+    .contact-info-section .contact-form .input-row ::placeholder {
+        font-size: 14px;
+    }
+    .contact-info-section .contact-form .fleet-area .title {
+        margin-top: 10px;
+        font-size: 16px;
+        margin-bottom: 13px;
+    }
+    .contact-info-section .contact-form .fleet-area .fleet-value {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    .contact-info-section .contact-form .checkbox-row .title {
+        font-size: 16px;
+    }
+    .contact-info-section .contact-form .checkbox-row label {
+        font-size: 14px;
+        -webkit-margin-start: 10px;
+        margin-inline-start: 10px;
+        margin-bottom: 10px;
+    }
+    .contact-info-section .contact-form .checkbox-row .form-check-input {
+        width: 14px;
+        height: 14px;
+    }
+    .contact-info-section .contact-form .message-row {
+        margin-top: 45px;
+    }
+    .contact-info-section .contact-form .message-row label {
+        font-size: 16px;
+        margin-bottom: 11px;
+    }
+    .contact-info-section .contact-form .message-row textarea {
+        padding: 18px 26px;
+        margin-bottom: 30px;
+    }
+    .solution-header-section {
+        padding: 0;
+        height: 440px;
+    }
+    .solution-header-section
+        .solution-header-main
+        .solution-header-row
+        .solution-header-title-area {
+        padding-top: 100px;
+    }
+    .solution-header-section
+        .solution-header-main
+        .solution-header-row
+        .solution-header-title-area
+        .solution-tag {
+        padding: 9px 27px;
+        font-size: 16px;
+        margin-bottom: 16px;
+    }
+    .solution-header-section
+        .solution-header-main
+        .solution-header-row
+        .solution-header-title-area
+        .solution-title {
+        font-size: 24px;
+        margin-bottom: 16px;
+    }
+    .solution-header-section
+        .solution-header-main
+        .solution-header-row
+        .solution-header-title-area
+        .solution-sub-title {
+        font-size: 18px;
+        max-width: 252px;
+    }
+    .solution-header-section
+        .solution-header-main
+        .solution-header-row
+        .solution-header-content-area {
+        padding: 0;
+    }
+    .solution-header-section
+        .solution-header-main
+        .solution-header-row
+        .solution-header-content-area
+        .content-title {
+        font-size: 14px;
+        margin-bottom: 24px;
+        max-width: 453px;
+    }
+    .solution-header-section
+        .solution-header-main
+        .solution-header-row
+        .solution-header-content-area
+        .solution-feature-list
+        .feature
+        .feature-arrow {
+        -webkit-margin-end: 20px;
+        margin-inline-end: 20px;
+        width: 14px;
+        height: 14px;
+        margin-top: 2.5px;
+    }
+    .solution-header-section
+        .solution-header-main
+        .solution-header-row
+        .solution-header-content-area
+        .solution-feature-list
+        .feature
+        .feature-desc {
+        font-size: 14px;
+        margin-bottom: 8px;
+    }
+    .right-image-solution-section {
+        height: 390px;
+    }
+    .right-image-solution-section
+        .right-image-solution-main
+        .right-image-solution-row
+        .right-image-solution-image
+        .image {
+        height: 390px;
+        width: 380px;
+    }
+    .right-image-solution-section
+        .right-image-solution-main
+        .right-image-solution-row
+        .right-image-solution-content
+        .title {
+        font-size: 24px;
+        margin-bottom: 16px;
+    }
+    .right-image-solution-section
+        .right-image-solution-main
+        .right-image-solution-row
+        .right-image-solution-content
+        .desc {
+        font-size: 14px;
+    }
+    .left-image-solution-section {
+        height: 390px;
+    }
+    .left-image-solution-section
+        .left-image-solution-main
+        .left-image-solution-row
+        .left-image-solution-image
+        .image {
+        height: 390px;
+        width: 300px;
+    }
+    .left-image-solution-section
+        .left-image-solution-main
+        .left-image-solution-row
+        .left-image-solution-content
+        .title {
+        font-size: 20px;
+        margin-bottom: 16px;
+    }
+    .left-image-solution-section
+        .left-image-solution-main
+        .left-image-solution-row
+        .left-image-solution-content
+        .desc {
+        font-size: 14px;
+    }
+    .why-tracking-section {
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+    .why-tracking-section .why-tracking-main {
+        padding-top: 74px;
+        padding-bottom: 74px;
+    }
+    .why-tracking-section .why-tracking-main .title {
+        font-size: 24px;
+        margin-bottom: 16px;
+    }
+    .why-tracking-section .why-tracking-main .desc {
+        font-size: 12px;
+        max-width: 550px;
+    }
+    .our-customers-main-about {
+        padding-top: 100px !important;
+        padding-bottom: 100px !important;
+    }
+    .working-benefits-area {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .working-benefits-area .title-area .title {
+        font-size: 24px;
+        margin-bottom: 30px;
+    }
+    .working-benefits-area .job-features .job-features-row {
+        margin-bottom: 45px;
+    }
+    .working-benefits-area .job-features .job-features-row .job-feature {
+        width: 45%;
+    }
+    .working-benefits-area .job-features .job-features-row .job-feature img {
+        max-width: 30px;
+        max-height: 30px;
+        margin-bottom: 15px;
+    }
+    .working-benefits-area .job-features .job-features-row .job-feature .title {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    .working-benefits-area .job-features .job-features-row .job-feature .desc {
+        font-size: 14px;
+    }
+    .careers-join {
+        padding: 100px 0;
+    }
+    .vacancies-area {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .vacancies-area .title-area .title {
+        font-size: 24px;
+        margin-bottom: 30px;
+    }
+    .vacancies-area .jobs-list-main .jobs {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .vacancies-area .jobs-list-main .jobs .job {
+        width: 380px;
+        height: 205px;
+        -webkit-margin-end: 14px;
+        margin-inline-end: 14px;
+        margin-bottom: 14px;
+    }
+    .vacancies-area .jobs-list-main .jobs .job .title {
+        font-size: 18px;
+    }
+    .vacancies-area .jobs-list-main .jobs .job .btn {
+        font-size: 16px;
+    }
+    .demo-main {
+        padding-top: 150px;
+        padding-bottom: 50px;
+        height: unset !important;
+    }
+    .demo-main .col-4 {
+        width: 100%;
+    }
+    .demo-main .col-4 span {
+        max-width: unset !important;
+    }
+    .demo-video-main {
+        padding-top: 0;
+        padding-bottom: 126px;
+        position: relative;
+        background-color: white !important;
+    }
+    .demo-video-main .demo-video {
+        position: initial;
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+    .demo-video-main .demo-video iframe {
+        width: 788px;
+        height: 380px;
+    }
+    .blog-main-header {
+        height: unset !important;
+        padding-bottom: 250px;
+        padding-top: 100px;
+    }
+    .blog-main-header-main {
+        padding-top: 137px;
+        padding-bottom: 150px;
+    }
+    .blog-main-header-main .blog-items {
+        top: -210px;
+        right: 115px;
+        left: 115px;
+    }
+    .blog-main-header-main .blog-items .blog-item {
+        height: 444px;
+    }
+    .blog-main-header-main .blog-items .blog-item .text-area .title {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .blog-main-header-main .blog-items .blog-item .image img {
+        height: 264px;
+    }
+    .blog-header-main .blog-header-title {
+        font-size: 24px;
+    }
+    .blog-header-main .blog-image-1,
+    .blog-header-main .blog-image-2 {
+        min-height: 270px;
+    }
+    .blog-text-main {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    .blog-text-main .text-line {
+        margin-bottom: 30px;
+        font-size: 14px;
+    }
+    .index-headline-main-tracking-pakistan {
+        position: relative;
+    }
+    .index-headline-main-tracking-pakistan .video-player-text-main {
+        top: 30% !important;
+        right: 0;
+        left: 0;
+    }
+    .index-headline-main-tracking-pakistan
+        .video-player-text-main
+        .video-player-title {
+        font-size: 40px;
+        margin-bottom: 25px;
+    }
+    .index-headline-main-tracking-pakistan
+        .video-player-text-main
+        .video-player-desc {
+        font-size: 14px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .services-solutions-main .services-features-imagelist .solution-item {
+        width: 220px;
+        height: 230px;
+    }
+    .services-solutions-main
+        .services-features-imagelist
+        .solution-item
+        .solution-img {
+        max-width: 50px;
+        max-height: 50px;
+    }
+    .services-solutions-main
+        .services-features-imagelist
+        .solution-item
+        .solution-name {
+        font-size: 14px;
+    }
+    .about-main-index .feature-item-list {
+        margin-top: 20px;
+    }
+    .about-main-index .feature-item-list .list span {
+        font-size: 16px;
+        line-height: 2;
+    }
+    .about-main-index .feature-item-list .list .list-features p span {
+        font-size: 16px !important;
+        line-height: 2;
+        white-space: nowrap;
+    }
+    .about-main-index .our-vision-section {
+        margin-top: 100px;
+    }
+    .about-main-index-tracking {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        padding-bottom: 100px !important;
+    }
+    .about-main-index .vision-area .left-section .title {
+        font-size: 24px;
+    }
+    .about-main-index .vision-area .left-section .desc {
+        font-size: 12px;
+    }
+    .about-main-index .vision-area .second-section {
+        display: flex;
+        flex-direction: column;
+    }
+    .about-main-index .vision-area .second-section .left-section,
+    .about-main-index .vision-area .second-section .right-section {
+        width: 100%;
+    }
+    .about-main-index .vision-area .second-section .left-section .title,
+    .about-main-index .vision-area .second-section .right-section .title {
+        margin-top: 50px !important;
+        font-size: 16px;
+    }
+    .about-main-index .vision-area .second-section .left-section .desc,
+    .about-main-index .vision-area .second-section .right-section .desc {
+        font-size: 12px;
+    }
+    .our-customer-pakistan {
+        padding-top: 100px !important;
+        padding-bottom: 100px !important;
+    }
+    .packages-section {
+        padding-top: 100px;
+    }
+    .packages-section .title {
+        margin-bottom: 25px;
+        font-size: 24px;
+    }
+    .packages-section .sub-title {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .packages-section .sub-button {
+        font-size: 16px;
+    }
+    .packages-section .desc {
+        margin-top: 25px;
+        font-size: 16px;
+    }
+    .packages-features .packages-main .packages-list .title {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+    .packages-features .packages-main .packages-list .desc-list span {
+        font-size: 12px;
+    }
+    .packages-features .second {
+        padding-top: 800px !important;
+    }
+    .packages-features .header {
+        margin-bottom: 25px;
+    }
+    .packages-features .header .header-title {
+        font-size: 20px;
+    }
+    .packages-features .header .header-desc {
+        font-size: 16px;
+    }
+    .packages-features .thirdd {
+        padding-bottom: 100px;
+    }
+    .pakistan-url {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .pakistan-url .title {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+    .about-main-index .feature-item-list .list .list-features p span {
+        font-size: 16px !important;
+        line-height: 2.2 !important;
+    }
+    .about-main-index .feature-item-list .list .list-features p img {
+        width: 15px;
+    }
+    .about-main-index .feature-item-list .list span {
+        white-space: nowrap;
+    }
+    .about-main-index .feature-item-list .list {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .slider-container {
+        width: 100%;
+        position: relative;
+        overflow: hidden;
+        margin-left: 0px;
+        background-color: white;
+    }
+
+    /* Styles for the slider content */
+    .slider-content {
+        display: flex;
+        transition: transform 0.5s;
+    }
+
+    /* Styles for individual slide items */
+    .slide {
+        width: 200px;
+        .slider-container {
+            width: 100%;
+            position: relative;
+            overflow: hidden;
+            margin-left: 0px;
+            background-color: white;
+        }
+
+        /* Styles for the slider content */
+        .slider-content {
+            display: flex;
+            transition: transform 0.5s;
+        }
+
+        /* Styles for individual slide items */
+        .slide {
+            width: 200px;
+            height: 200px;
+            flex-shrink: 0;
+        }
+
+        /* Styles for the dot buttons container */
+        .dot-buttons {
+            text-align: center;
+            margin-top: 10px;
+        }
+
+        /* Styles for individual dot buttons */
+        .dot {
+            display: inline-block;
+            width: 10px;
+            height: 10px;
+            background-color: #ccc;
+            border-radius: 50%;
+            margin: 0 5px;
+            cursor: pointer;
+        }
+
+        /* Style for the active dot button */
+        .active {
+            background-color: black;
+        }
+        flex-shrink: 0;
+    }
+
+    /* Styles for the dot buttons container */
+    .dot-buttons {
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    /* Styles for individual dot buttons */
+    .dot {
+        display: inline-block;
+        width: 10px;
+        height: 10px;
+        background-color: #ccc;
+        border-radius: 50%;
+        margin: 0 5px;
+        cursor: pointer;
+    }
+
+    /* Style for the active dot button */
+    .active {
+        background-color: black;
+    }
+} /*# sourceMappingURL=tablet.css.map */
